@@ -1,0 +1,15 @@
+# Pastas de logs e dados temporários do Airflow/Docker
+logs/
+airflow-logs/
+
+# Arquivos de ambiente e chaves sensíveis
+.env
+
+# Cache do Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Arquivos gerados pelo sistema operacional
+Thumbs.db
+.DS_Store
